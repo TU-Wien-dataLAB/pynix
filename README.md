@@ -10,8 +10,7 @@ projects.
 
 # Initial setup 
 
-1. Clone the git repository 
-   `git clone ssh://git@gitlab.tuwien.ac.at:822/hpc/datalab/jupyter/dev-onboarding/pynix.git`
+1. Clone this git repository
 2. Create a branch to work in 
    `git switch -c <branchname>`
 3. Create a new virtual environment for your project.
